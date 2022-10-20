@@ -66,4 +66,4 @@ My final Mobile Version looks as follows
 
 ## App link
  
- Check out the [App](#)
+ Check out the [App](https://haraani.github.io/FrontEnd/QR-Code-Component/)
