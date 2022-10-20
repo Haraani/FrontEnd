@@ -67,5 +67,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 
 ### Screenshot
-[App Screenshot](./design/desktop-design.jpg)
+![App Screenshot](./design/desktop-design.jpg)
+
 
