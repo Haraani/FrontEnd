@@ -54,11 +54,11 @@ so that it matches the requirement of the challenge.
 
 My final Desktop Version looks as follows
 
-![App Screenshot](.Webpage_Screenshot.jpg)
+![App Screenshot](./Webpage_Screenshot.jpg)
 
 My final Mobile Version looks as follows
 
-![App Screenshot](.mobile_device_View_Screenshot.jpg)
+![App Screenshot](./mobile_device_View_Screenshot.jpg)
 
 # Deployment
 ## Code Link
