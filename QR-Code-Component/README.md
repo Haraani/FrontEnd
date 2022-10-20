@@ -62,7 +62,7 @@ My final Mobile Version looks as follows
 
 # Deployment
 ## Code Link
- Check out the [code](#https://github.com/Haraani/FrontEnd/tree/main/QR-Code-Component) 
+ Check out the [code](https://github.com/Haraani/FrontEnd/tree/main/QR-Code-Component) 
 
 ## App link
  
